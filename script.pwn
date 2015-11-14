@@ -5,5 +5,5 @@ if(var == 5)
 }
 else
 {
-  var--;
+  var = 5;
 }
